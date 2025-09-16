@@ -17,7 +17,7 @@ Float4096 is a revolutionary Java library that fuses **mathematics, symbolic phy
 - **Immutable, Holographic Ledgers:** Branching, version-controlled ledgers ensure **data integrity and cryptographically inspired workflows**.
 - **Elegant Integration Across Domains:** Math, biology, programming, and visualization coexist seamlessly, producing a **holistic symbolic-computational framework**.
 
-## Why It’s Genius
+## Why It’s Unique
 
 Float4096 is a **mad scientist’s lab in code** — audacious, recursive, and beautifully structured. It empowers experimental exploration of **numbers as code, code as DNA, and computation as a living symbolic system**. It’s ideal for:
 
